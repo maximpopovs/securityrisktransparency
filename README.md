@@ -55,3 +55,22 @@ Build a unified security posture program that aggregates vulnerability, identity
 - Active production incident response
 - Penetration testing or infrastructure hardening
 - Real corporate data (project uses simulated or anonymized input
+
+### 6. Key Deliverables
+
+- Power BI Dashboard (Scorecard, Vulnerability, Identity, Incident pages)
+- Risk Register (CSV/Excel)
+- Remediation Tracking Sheet
+- Monthly Executive Scorecard
+- Architecture Diagram (Azure or Local MVP)
+- Program Closeout Report & Lessons Learned
+
+---
+
+### ✅ Summary
+This program demonstrates end-to-end security program management:  
+governance → data ingestion → metrics → dashboards → executive reporting → measurable posture improvement.
+
+The project is built to showcase security leadership, cloud knowledge, data analytics, and KPI-driven risk management using Azure, Python, and Power BI.
+
+---
